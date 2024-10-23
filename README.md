@@ -1,1 +1,2 @@
 # Twitter-Power-BI-Dashboard-Social-media-data-
+Generated an innovative intelligible Power BI Dashboard for Twitter usage throughout the users. I have displayed valuable insights regarding the total tweets, impressions, media engagements, and media views according to Year, Month, and day. Used slicer functions to filter down monthly reports.Integrated DAX queries and Power query to Clean and format the data as per requirements. 
